@@ -150,7 +150,7 @@ img{
     flex-direction: column;
     width: 50%;
 }
-#message{
+.message{
     margin-top: 1.4375rem;
     margin-bottom: 1.4375rem;
 }
