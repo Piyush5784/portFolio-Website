@@ -7,6 +7,9 @@
     .body-section{
         flex-direction: column;
     }
+    #image{
+      margin-right: 0;
+    }
   }
   
   @media screen and (max-width: 37.5rem) {

@@ -48,14 +48,14 @@
 .button{
     display: flex;
     justify-content:baseline;
-    width: 300px;
+    width: 18.75rem;
     height: 2.5rem;
     border-radius: 0.3125rem;
 }
 .button button{
-    width: 300px;
+    width: 18.75rem;
     color: white;
-    border-radius: 5px;
+    border-radius: 0.3125rem;
     background-color: #003E68;
 }
 
@@ -122,8 +122,8 @@
     border: 0;
     justify-content: center;
     align-items: center;
-    margin-top: 20px;
-    border-radius: 5px;
+    margin-top: 1.25rem;
+    border-radius: 0.3125rem;
     background-color: #003E68;
 }
 .img-box-one{
@@ -140,27 +140,25 @@ img{
     justify-content: space-evenly;
     width: 87.5rem;
 }
-/* 
-.img{
-    height: 21.875rem;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-} */
 .mg-t{
     margin-top: 3.75rem;
 }
 #Contact-us form{
-    height: 18.75rem;
+    height: 28.75rem;
     display: flex;
     justify-content: space-evenly;
     flex-direction: column;
     width: 50%;
 }
+#message{
+    margin-top: 1.4375rem;
+    margin-bottom: 1.4375rem;
+}
 #Contact-us{
     display: flex;
     justify-content: space-evenly;
-    height: 43.75rem;
+    height: 52.75rem;
+    /* 43rem */
     flex-direction: column;
 }
 
@@ -177,9 +175,9 @@ img{
     border: 0;
     justify-content: center;
     align-items: center;
-    margin-top: 20px;
+    margin-top: 1.25rem;
     color: white;
-    border-radius: 5px;
+    border-radius: 0.3125rem;
     background-color: #003E68;
 }
 
@@ -189,19 +187,19 @@ img{
     
 }
 .circle-bg{
-    height: 50px;
+    height: 3.125rem;
     background-color: #003E68;
-    width: 50px;
+    width: 3.125rem;
     border-radius: 50%;
     display: flex;
     align-items: center;
-    font-size: 23px;
+    font-size: 1.4375rem;
     justify-content: center;
 }
 
 .logos{
     display: flex;
-    width: 350px;
+    width: 21.875rem;
     align-self: center;
     justify-content:space-around;
     align-items:center;
