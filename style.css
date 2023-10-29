@@ -104,6 +104,9 @@
     border-radius: 1.25rem;
     background-color: #3FA0E1;
 }
+#project{
+    display: none;
+}
 .Projects{
     height: 56.25rem;
     display: flex;
