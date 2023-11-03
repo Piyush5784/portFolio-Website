@@ -156,6 +156,11 @@ button {
     }
     .projects{
         margin-bottom: 50px;
+        width: 90%;
+    }
+    .projects p,a{
+        font-size: 16px;
+        text-align: center;
     }
     .navbar a.icon {
       float: right;
