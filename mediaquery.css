@@ -1,5 +1,11 @@
 @media screen and (max-width: 37.5rem) {
     .navbar a{display: none;}
+    #project{
+      display: block;
+    }
+    .projects-container{
+      flex-direction: column;
+    }
     .navbar a.icon {
       float: right;
       display: block;
@@ -10,6 +16,7 @@
     #image{
       margin-right: 0;
     }
+
   }
   
   @media screen and (max-width: 37.5rem) {
